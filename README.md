@@ -34,7 +34,7 @@ SPACE: Plays program if paused, pauses program and enters edit mode if playing.
 
 R: Randomizes the grid, Enters PAUSE/EDIT mode.
 
-Arrow Keys: Adjusts speed
+### Arrow Keys: Adjusts speed:
 
 	-Down - Slowest speed
 
