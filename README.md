@@ -1,5 +1,5 @@
 # ConwayGameOfLife
-Opengl game of life animation.
+C++ Opengl game of life animation.
 
 ## INFO
 
