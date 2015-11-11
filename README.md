@@ -1,5 +1,6 @@
 # ConwayGameOfLife
 C++ Opengl game of life animation.
+Makefile is for Windows with freeglut and opengl.
 
 ## INFO
 
