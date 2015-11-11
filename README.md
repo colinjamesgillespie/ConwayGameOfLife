@@ -55,4 +55,4 @@ Right Click: Enter Menu.
 
 ## TEMPLATES
 
-The templates option in the menu will give some starting sequences to play and observe, if wanted. I made this just to show the program to people easier.
+The templates option in the menu will give some starting sequences to play and observe, if wanted. I made this just to easier show the program to people.
