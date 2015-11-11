@@ -1,36 +1,7 @@
 # ConwayGameOfLife
 Opengl game of life animation.
 
-
-KEYBOARD
-
-ESC: Quit the program
-
-C: Clears the grid
-
-SPACE: Plays program if paused, pauses program and enters edit mode if playing.
-
-R: Randomizes the grid, Enters PAUSE/EDIT mode.
-
-Arrow Keys: Adjusts speed
-
-	-Down - Slowest speed
-
-	-Left - Slow speed
-
-	-Right - Fast speed
-
-	-Up - Fastest speed
-
-
-MOUSE
-
-Left Click: Highlight/Unhighlight cells
-
-Right Click: Enter Menu.
-
-
-INFO
+## INFO
 
 Conway's Game of Life rules:
 
@@ -53,8 +24,35 @@ Grid can not be edited while in PLAY mode.
 
 Grid is 51x51 cells.
 
+## KEYBOARD
+
+ESC: Quit the program
+
+C: Clears the grid
+
+SPACE: Plays program if paused, pauses program and enters edit mode if playing.
+
+R: Randomizes the grid, Enters PAUSE/EDIT mode.
+
+Arrow Keys: Adjusts speed
+
+	-Down - Slowest speed
+
+	-Left - Slow speed
+
+	-Right - Fast speed
+
+	-Up - Fastest speed
 
 
-TEMPLATES
+## MOUSE
+
+Left Click: Highlight/Unhighlight cells
+
+Right Click: Enter Menu.
+
+
+
+## TEMPLATES
 
 The templates option in the menu will give some starting sequences to play and observe, if wanted. I made this just to show the program to people easier.
